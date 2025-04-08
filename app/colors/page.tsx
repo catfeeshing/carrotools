@@ -8,9 +8,7 @@ export default function DocsPage() {
     <>
       <div>
         <h1 className={title()}>Docs</h1>
-      </div>
 
-      <div className="width-full">
         <ImageColorPicker />
       </div>
     </>
